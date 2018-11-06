@@ -1,3 +1,9 @@
+# coding: utf-8
+
+# MC886/MO444 - 2018s2 - Assignment 03
+# Tamara Campos - RA 157324
+# João Vítor B. Silva - RA 155951
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans, DBSCAN
